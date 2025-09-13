@@ -1,5 +1,3 @@
-pip install -q streamlit
-pip install -q streamlit_option_menu
 
 # I installed streamlit in the terminal
 # I worked so hard on this I Hope I win
@@ -206,5 +204,6 @@ if selected == "Contact Us":
 
 
    
+
 
 
